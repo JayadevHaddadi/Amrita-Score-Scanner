@@ -1,0 +1,13 @@
+<resources>
+
+    <color name="black_overlay">#66000000</color>
+    <color name="for_ground">#f7ee46</color>
+    <color name="ThemeBackground">#1686ff</color>
+
+    <color name="correct">#00ff00</color>
+    <color name="corrected">#008200</color>
+    <color name="high_confidence">#0000ff</color>
+    <color name="low_confidence">#ff0000</color>
+
+    <color name="ic_launcher_background">#4d5cfe</color>
+</resources>

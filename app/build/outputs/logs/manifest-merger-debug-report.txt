@@ -1,0 +1,183 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/tayfur/Documents/Amrita Score Scanner/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /Users/tayfur/Documents/Amrita Score Scanner/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /Users/tayfur/Documents/Amrita Score Scanner/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /Users/tayfur/Documents/Amrita Score Scanner/app/src/main/AndroidManifest.xml:2:1-28:12
+MERGED from [:appDL4J] /Users/tayfur/Documents/Amrita Score Scanner/appDL4J/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:multidex:1.0.2] /Users/tayfur/.gradle/caches/transforms-2/files-2.1/9f1399568df5376c6ffcfe8c331ec74c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/tayfur/.gradle/caches/transforms-2/files-2.1/a475851d8e850889e3c3370e56f66bc7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/tayfur/.gradle/caches/transforms-2/files-2.1/1211bbe6ce18558841984fbd52449dfc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/tayfur/.gradle/caches/transforms-2/files-2.1/179da54c20959347d7ec890eaea07eb2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/tayfur/.gradle/caches/transforms-2/files-2.1/840d74783e5386754644ecf3e95dd638/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/tayfur/.gradle/caches/transforms-2/files-2.1/fc7cd23ff1509afed50ce4ef84f0aed4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/tayfur/.gradle/caches/transforms-2/files-2.1/8840e7b430a1e1735753ea788a837302/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/tayfur/.gradle/caches/transforms-2/files-2.1/7bacfbc5bad71fa816910818cd4bdc0c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/tayfur/.gradle/caches/transforms-2/files-2.1/ac4b02b69d72a16aaec8384db660b598/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/tayfur/.gradle/caches/transforms-2/files-2.1/cac5a1e28b75f247b4af796ff97b965b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/tayfur/.gradle/caches/transforms-2/files-2.1/f6ec436db3b88b534ec804e6c3b94cd4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/tayfur/.gradle/caches/transforms-2/files-2.1/9ee7ba9077ec237c4f338cf7311efc80/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/tayfur/.gradle/caches/transforms-2/files-2.1/14a30d8c6300f623bcda64d1b7dbbccc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/tayfur/.gradle/caches/transforms-2/files-2.1/27c4e0c5b767a6b989c346a361bd2251/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/tayfur/.gradle/caches/transforms-2/files-2.1/ecb929cfcacd763c87bdba0a0b72e30e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/tayfur/.gradle/caches/transforms-2/files-2.1/44078753c15499b7c911b96064481cd0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/tayfur/.gradle/caches/transforms-2/files-2.1/394b9979fa51d6cc01ad65378a5f476f/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/tayfur/.gradle/caches/transforms-2/files-2.1/cecb39b58706aad41953f4b13bec719e/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/tayfur/.gradle/caches/transforms-2/files-2.1/4ea5380af5db2c96f699ee6878a6df63/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/tayfur/.gradle/caches/transforms-2/files-2.1/919c7d81170cf6007fbcdcacfcef02ed/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/tayfur/.gradle/caches/transforms-2/files-2.1/b0bfdc5d17cf5d5299f31ce20705c535/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/tayfur/.gradle/caches/transforms-2/files-2.1/77b8bf58c555b1744575df513666f5fd/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/tayfur/.gradle/caches/transforms-2/files-2.1/088617f298ac906db5d5b50ec7dc7c29/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/tayfur/.gradle/caches/transforms-2/files-2.1/30a6bab4d6e7600ef16cd70eed7fbe02/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/tayfur/.gradle/caches/transforms-2/files-2.1/5a6addc4526161e8d2278beb60e729eb/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/tayfur/.gradle/caches/transforms-2/files-2.1/06ce285cbf9a119deeca7d14a4e26184/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/tayfur/.gradle/caches/transforms-2/files-2.1/9f22e0129ee515b97d4ac8af5dbf0f21/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/tayfur/Documents/Amrita Score Scanner/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /Users/tayfur/Documents/Amrita Score Scanner/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /Users/tayfur/Documents/Amrita Score Scanner/app/src/main/AndroidManifest.xml:2:1-28:12
+	package
+		ADDED from /Users/tayfur/Documents/Amrita Score Scanner/app/src/main/AndroidManifest.xml:3:5-33
+		INJECTED from /Users/tayfur/Documents/Amrita Score Scanner/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/tayfur/Documents/Amrita Score Scanner/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/tayfur/Documents/Amrita Score Scanner/app/src/main/AndroidManifest.xml
+		ADDED from /Users/tayfur/Documents/Amrita Score Scanner/app/src/main/AndroidManifest.xml:2:1-28:12
+		INJECTED from /Users/tayfur/Documents/Amrita Score Scanner/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/tayfur/Documents/Amrita Score Scanner/app/src/main/AndroidManifest.xml
+		ADDED from /Users/tayfur/Documents/Amrita Score Scanner/app/src/main/AndroidManifest.xml:2:1-28:12
+		INJECTED from /Users/tayfur/Documents/Amrita Score Scanner/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/tayfur/Documents/Amrita Score Scanner/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.CAMERA
+ADDED from /Users/tayfur/Documents/Amrita Score Scanner/app/src/main/AndroidManifest.xml:5:5-65
+	android:name
+		ADDED from /Users/tayfur/Documents/Amrita Score Scanner/app/src/main/AndroidManifest.xml:5:22-62
+uses-permission#android.permission.INTERNET
+ADDED from /Users/tayfur/Documents/Amrita Score Scanner/app/src/main/AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from /Users/tayfur/Documents/Amrita Score Scanner/app/src/main/AndroidManifest.xml:6:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/tayfur/Documents/Amrita Score Scanner/app/src/main/AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from /Users/tayfur/Documents/Amrita Score Scanner/app/src/main/AndroidManifest.xml:7:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/tayfur/Documents/Amrita Score Scanner/app/src/main/AndroidManifest.xml:8:5-80
+	android:name
+		ADDED from /Users/tayfur/Documents/Amrita Score Scanner/app/src/main/AndroidManifest.xml:8:22-77
+application
+ADDED from /Users/tayfur/Documents/Amrita Score Scanner/app/src/main/AndroidManifest.xml:10:5-26:19
+MERGED from [com.android.support:support-compat:28.0.0] /Users/tayfur/.gradle/caches/transforms-2/files-2.1/44078753c15499b7c911b96064481cd0/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/tayfur/.gradle/caches/transforms-2/files-2.1/44078753c15499b7c911b96064481cd0/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/tayfur/.gradle/caches/transforms-2/files-2.1/394b9979fa51d6cc01ad65378a5f476f/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/tayfur/.gradle/caches/transforms-2/files-2.1/394b9979fa51d6cc01ad65378a5f476f/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/tayfur/.gradle/caches/transforms-2/files-2.1/44078753c15499b7c911b96064481cd0/AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from /Users/tayfur/Documents/Amrita Score Scanner/app/src/main/AndroidManifest.xml:13:9-41
+	android:largeHeap
+		ADDED from /Users/tayfur/Documents/Amrita Score Scanner/app/src/main/AndroidManifest.xml:14:9-33
+	android:icon
+		ADDED from /Users/tayfur/Documents/Amrita Score Scanner/app/src/main/AndroidManifest.xml:12:9-43
+	android:allowBackup
+		ADDED from /Users/tayfur/Documents/Amrita Score Scanner/app/src/main/AndroidManifest.xml:11:9-35
+	android:theme
+		ADDED from /Users/tayfur/Documents/Amrita Score Scanner/app/src/main/AndroidManifest.xml:15:9-44
+activity#edu.amrita.aerl.scorereader.android.PreviewActivity
+ADDED from /Users/tayfur/Documents/Amrita Score Scanner/app/src/main/AndroidManifest.xml:16:9-17:52
+	android:screenOrientation
+		ADDED from /Users/tayfur/Documents/Amrita Score Scanner/app/src/main/AndroidManifest.xml:17:13-50
+	android:name
+		ADDED from /Users/tayfur/Documents/Amrita Score Scanner/app/src/main/AndroidManifest.xml:16:19-85
+activity#edu.amrita.aerl.scorereader.android.ShowResultsActivity
+ADDED from /Users/tayfur/Documents/Amrita Score Scanner/app/src/main/AndroidManifest.xml:18:9-19:52
+	android:screenOrientation
+		ADDED from /Users/tayfur/Documents/Amrita Score Scanner/app/src/main/AndroidManifest.xml:19:13-50
+	android:name
+		ADDED from /Users/tayfur/Documents/Amrita Score Scanner/app/src/main/AndroidManifest.xml:18:19-89
+activity#edu.amrita.aerl.scorereader.android.SplashActivity
+ADDED from /Users/tayfur/Documents/Amrita Score Scanner/app/src/main/AndroidManifest.xml:20:9-25:20
+	android:theme
+		ADDED from /Users/tayfur/Documents/Amrita Score Scanner/app/src/main/AndroidManifest.xml:20:85-119
+	android:name
+		ADDED from /Users/tayfur/Documents/Amrita Score Scanner/app/src/main/AndroidManifest.xml:20:19-84
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/tayfur/Documents/Amrita Score Scanner/app/src/main/AndroidManifest.xml:21:13-24:29
+action#android.intent.action.MAIN
+ADDED from /Users/tayfur/Documents/Amrita Score Scanner/app/src/main/AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from /Users/tayfur/Documents/Amrita Score Scanner/app/src/main/AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/tayfur/Documents/Amrita Score Scanner/app/src/main/AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from /Users/tayfur/Documents/Amrita Score Scanner/app/src/main/AndroidManifest.xml:23:27-74
+uses-sdk
+INJECTED from /Users/tayfur/Documents/Amrita Score Scanner/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/tayfur/Documents/Amrita Score Scanner/app/src/main/AndroidManifest.xml
+INJECTED from /Users/tayfur/Documents/Amrita Score Scanner/app/src/main/AndroidManifest.xml
+MERGED from [:appDL4J] /Users/tayfur/Documents/Amrita Score Scanner/appDL4J/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:appDL4J] /Users/tayfur/Documents/Amrita Score Scanner/appDL4J/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:multidex:1.0.2] /Users/tayfur/.gradle/caches/transforms-2/files-2.1/9f1399568df5376c6ffcfe8c331ec74c/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.2] /Users/tayfur/.gradle/caches/transforms-2/files-2.1/9f1399568df5376c6ffcfe8c331ec74c/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/tayfur/.gradle/caches/transforms-2/files-2.1/a475851d8e850889e3c3370e56f66bc7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/tayfur/.gradle/caches/transforms-2/files-2.1/a475851d8e850889e3c3370e56f66bc7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/tayfur/.gradle/caches/transforms-2/files-2.1/1211bbe6ce18558841984fbd52449dfc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/tayfur/.gradle/caches/transforms-2/files-2.1/1211bbe6ce18558841984fbd52449dfc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/tayfur/.gradle/caches/transforms-2/files-2.1/179da54c20959347d7ec890eaea07eb2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/tayfur/.gradle/caches/transforms-2/files-2.1/179da54c20959347d7ec890eaea07eb2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/tayfur/.gradle/caches/transforms-2/files-2.1/840d74783e5386754644ecf3e95dd638/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/tayfur/.gradle/caches/transforms-2/files-2.1/840d74783e5386754644ecf3e95dd638/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/tayfur/.gradle/caches/transforms-2/files-2.1/fc7cd23ff1509afed50ce4ef84f0aed4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/tayfur/.gradle/caches/transforms-2/files-2.1/fc7cd23ff1509afed50ce4ef84f0aed4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/tayfur/.gradle/caches/transforms-2/files-2.1/8840e7b430a1e1735753ea788a837302/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/tayfur/.gradle/caches/transforms-2/files-2.1/8840e7b430a1e1735753ea788a837302/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/tayfur/.gradle/caches/transforms-2/files-2.1/7bacfbc5bad71fa816910818cd4bdc0c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/tayfur/.gradle/caches/transforms-2/files-2.1/7bacfbc5bad71fa816910818cd4bdc0c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/tayfur/.gradle/caches/transforms-2/files-2.1/ac4b02b69d72a16aaec8384db660b598/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/tayfur/.gradle/caches/transforms-2/files-2.1/ac4b02b69d72a16aaec8384db660b598/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/tayfur/.gradle/caches/transforms-2/files-2.1/cac5a1e28b75f247b4af796ff97b965b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/tayfur/.gradle/caches/transforms-2/files-2.1/cac5a1e28b75f247b4af796ff97b965b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/tayfur/.gradle/caches/transforms-2/files-2.1/f6ec436db3b88b534ec804e6c3b94cd4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/tayfur/.gradle/caches/transforms-2/files-2.1/f6ec436db3b88b534ec804e6c3b94cd4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/tayfur/.gradle/caches/transforms-2/files-2.1/9ee7ba9077ec237c4f338cf7311efc80/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/tayfur/.gradle/caches/transforms-2/files-2.1/9ee7ba9077ec237c4f338cf7311efc80/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/tayfur/.gradle/caches/transforms-2/files-2.1/14a30d8c6300f623bcda64d1b7dbbccc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/tayfur/.gradle/caches/transforms-2/files-2.1/14a30d8c6300f623bcda64d1b7dbbccc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/tayfur/.gradle/caches/transforms-2/files-2.1/27c4e0c5b767a6b989c346a361bd2251/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/tayfur/.gradle/caches/transforms-2/files-2.1/27c4e0c5b767a6b989c346a361bd2251/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/tayfur/.gradle/caches/transforms-2/files-2.1/ecb929cfcacd763c87bdba0a0b72e30e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/tayfur/.gradle/caches/transforms-2/files-2.1/ecb929cfcacd763c87bdba0a0b72e30e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/tayfur/.gradle/caches/transforms-2/files-2.1/44078753c15499b7c911b96064481cd0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/tayfur/.gradle/caches/transforms-2/files-2.1/44078753c15499b7c911b96064481cd0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/tayfur/.gradle/caches/transforms-2/files-2.1/394b9979fa51d6cc01ad65378a5f476f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/tayfur/.gradle/caches/transforms-2/files-2.1/394b9979fa51d6cc01ad65378a5f476f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/tayfur/.gradle/caches/transforms-2/files-2.1/cecb39b58706aad41953f4b13bec719e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/tayfur/.gradle/caches/transforms-2/files-2.1/cecb39b58706aad41953f4b13bec719e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/tayfur/.gradle/caches/transforms-2/files-2.1/4ea5380af5db2c96f699ee6878a6df63/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/tayfur/.gradle/caches/transforms-2/files-2.1/4ea5380af5db2c96f699ee6878a6df63/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/tayfur/.gradle/caches/transforms-2/files-2.1/919c7d81170cf6007fbcdcacfcef02ed/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/tayfur/.gradle/caches/transforms-2/files-2.1/919c7d81170cf6007fbcdcacfcef02ed/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/tayfur/.gradle/caches/transforms-2/files-2.1/b0bfdc5d17cf5d5299f31ce20705c535/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/tayfur/.gradle/caches/transforms-2/files-2.1/b0bfdc5d17cf5d5299f31ce20705c535/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/tayfur/.gradle/caches/transforms-2/files-2.1/77b8bf58c555b1744575df513666f5fd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/tayfur/.gradle/caches/transforms-2/files-2.1/77b8bf58c555b1744575df513666f5fd/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/tayfur/.gradle/caches/transforms-2/files-2.1/088617f298ac906db5d5b50ec7dc7c29/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/tayfur/.gradle/caches/transforms-2/files-2.1/088617f298ac906db5d5b50ec7dc7c29/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/tayfur/.gradle/caches/transforms-2/files-2.1/30a6bab4d6e7600ef16cd70eed7fbe02/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/tayfur/.gradle/caches/transforms-2/files-2.1/30a6bab4d6e7600ef16cd70eed7fbe02/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/tayfur/.gradle/caches/transforms-2/files-2.1/5a6addc4526161e8d2278beb60e729eb/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/tayfur/.gradle/caches/transforms-2/files-2.1/5a6addc4526161e8d2278beb60e729eb/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/tayfur/.gradle/caches/transforms-2/files-2.1/06ce285cbf9a119deeca7d14a4e26184/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/tayfur/.gradle/caches/transforms-2/files-2.1/06ce285cbf9a119deeca7d14a4e26184/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/tayfur/.gradle/caches/transforms-2/files-2.1/9f22e0129ee515b97d4ac8af5dbf0f21/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/tayfur/.gradle/caches/transforms-2/files-2.1/9f22e0129ee515b97d4ac8af5dbf0f21/AndroidManifest.xml:20:5-44
+INJECTED from /Users/tayfur/Documents/Amrita Score Scanner/app/src/main/AndroidManifest.xml
+INJECTED from /Users/tayfur/Documents/Amrita Score Scanner/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/tayfur/Documents/Amrita Score Scanner/app/src/main/AndroidManifest.xml
+		ADDED from /Users/tayfur/Documents/Amrita Score Scanner/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/tayfur/Documents/Amrita Score Scanner/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/tayfur/Documents/Amrita Score Scanner/app/src/main/AndroidManifest.xml
+		ADDED from /Users/tayfur/Documents/Amrita Score Scanner/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/tayfur/Documents/Amrita Score Scanner/app/src/main/AndroidManifest.xml

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Amrita Score Reader</string>
+    <string name="focus_label">Press anywhere to focus</string>
+    <string name="capture">Capture</string>
+    <string name="edit_char_text">Press any digit or letter to edit it</string>
+    <string name="correct_line">Correct Line</string>
+    <string name="corrected_character">Corrected Character</string>
+    <string name="high_confidence">High Confidence</string>
+    <string name="low_confidence">Low Confidence</string>
+    <string name="discard">Discard</string>
+    <string name="save">Save</string>
+    <string name="todo">TODO</string>
+</resources>
